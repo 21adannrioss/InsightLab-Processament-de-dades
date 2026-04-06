@@ -160,8 +160,7 @@ def executar_tots():
     print(f"Resultat: {passats}/{len(tests)} tests passats", end="")
     if fallats:
         print(f"  ·  {fallats} fallats")
-    else:
-        print("✅")
+
     print()
 
 
