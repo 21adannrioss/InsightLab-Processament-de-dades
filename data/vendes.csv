@@ -1,0 +1,31 @@
+id,producte,categoria,preu,quantitat,data,client,pais
+1,Laptop Pro 15,Electrònica,1299.99,2,2024-01-05,Joan García,Espanya
+2,Ratolí Sense Fils,Electrònica,29.95,5,2024-01-07,Maria López,Espanya
+3,Cadira Ergonòmica,Mobiliari,349.00,1,2024-01-10,Pere Martí,França
+4,Monitor 27",Electrònica,399.50,3,2024-01-12,Anna Puig,Alemanya
+5,Teclat Mecànic,Electrònica,89.99,4,2024-01-15,Jordi Roca,Espanya
+6,Escriptori Ajustable,Mobiliari,599.00,1,2024-01-18,Laia Soler,Espanya
+7,Auriculars BT,Electrònica,149.99,6,2024-01-20,Carlos Díaz,Mèxic
+8,Webcam HD,Electrònica,79.95,2,2024-01-22,Sofia Ruiz,Espanya
+9,Llum LED Escriptori,Il·luminació,45.00,8,2024-01-25,Marta Vidal,França
+10,Hub USB-C,Electrònica,59.99,3,2024-01-28,Tomàs Gil,Espanya
+11,Laptop Pro 15,Electrònica,1299.99,1,2024-02-02,Núria Mas,Espanya
+12,Reposabraços,Mobiliari,89.00,2,2024-02-05,Albert Pons,Itàlia
+13,SSD Extern 1TB,Electrònica,129.95,4,2024-02-08,Elena Castro,Espanya
+14,Ratolí Ergonòmic,Electrònica,69.99,3,2024-02-10,Hugo Torres,Portugal
+15,Tauleta Gràfica,Electrònica,199.00,2,2024-02-14,Clara Jiménez,Espanya
+16,Llum Anell LED,Il·luminació,35.50,5,2024-02-18,Pau Ferrer,Espanya
+17,Cadira Gamer,Mobiliari,459.00,1,2024-02-20,Marcos Navarro,Espanya
+18,Micròfon USB,Electrònica,109.99,2,2024-02-22,Irene Blanco,França
+19,Alça Monitor,Mobiliari,49.00,4,2024-02-25,Rafael Moreno,Espanya
+20,Bateria Externa,Electrònica,49.95,7,2024-02-28,Claudia Romero,Mèxic
+21,Monitor 27",Electrònica,399.50,2,2024-03-03,David Molina,Alemanya
+22,Teclat Sense Fils,Electrònica,79.95,5,2024-03-07,Beatriz Ortega,Espanya
+23,Escriptori Ajustable,Mobiliari,599.00,2,2024-03-10,Ferran Iglesias,Espanya
+24,Càmera Web 4K,Electrònica,149.00,3,2024-03-14,Patricia Vargas,Portugal
+25,Cable HDMI 2m,Electrònica,,2,2024-03-18,Roberto Sánchez,Espanya
+26,Coixí Lumbar,Mobiliari,39.99,6,2024-03-20,Silvia Herrera,Espanya
+27,Auriculars BT,Electrònica,149.99,4,2024-03-22,Alejandro Cruz,Mèxic
+28,Llum LED Escriptori,Il·luminació,45.00,3,2024-03-25,Natalia Flores,França
+29,Targeta Gràfica,Electrònica,499.00,1,2024-03-28,Daniel Guerrero,Espanya
+30,Hub USB-C,Electrònica,59.99,,2024-03-30,Valentina Reyes,Espanya
